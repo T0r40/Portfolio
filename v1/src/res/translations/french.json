@@ -1,0 +1,120 @@
+{
+    "Header":{
+        "CV": "Télécharger mon CV",
+        "Acerca": "A propos de moi",
+        "Tecno": "Technologies que je connais",
+        "Funcional": "Connaissances fonctionnelles SAP" ,
+        "Contacto": "Me contacter"
+    },
+    "Body":{
+        "Formulario": "Formulaire de contact"            
+    },
+    "Presentacion1":{
+        "Titulo":"Ma carrière professionnelle",
+        "Presentacion1_1": "Grâce aux connaissances acquises et à mes attitudes, j'évolue actuellement au poste de consultant technique SAP au sein de la société internationale de conseil en technologie Indra. Parmi mes fonctions et contributions figurent la résolution d'incidents au niveau de la programmation et le développement/maintenance d'évolutions",
+        "Presentacion1_2": "En matière d'innovation et de technologie, je me considère comme un autodidacte, qui se maintient à jour grâce à des actions de formation continue internes et externes",
+        "Presentacion1_3": "Je cherche à renforcer mes connaissances en matière de logiciels et de solutions ERP (SAP, Salesforce, Odoo) et à en apprendre le plus possible sur ce secteur, car c'est un domaine sur lequel je travaille actuellement et pour lequel j'ai des connaissances avancées de certains langages de programmation qu'ils manipulent, accréditant ces connaissances par des certifications d'achèvement et de réussite des cours fournis dans la section des certifications"
+       },
+    "Presentacion2":{
+        "Titulo":"Mes SoftSkills",
+        "Presentacion2_1": "Autonomie",
+        "Presentacion2_2": "Travail d'équipe",
+        "Presentacion2_4": "Persévérance",
+        "Presentacion2_5": "Perfectionniste",
+        "Presentacion2_6":"Travailleur" ,
+        "Presentacion2_7:":"Désir permanent d'apprendre et de connaître les nouvelles technologies"
+    },
+    "Presentacion3":{
+        "Titulo":"Mes objectifs professionnels",
+        "Presentacion3_1": "Mon engagement et ma passion pour le développement professionnel me poussent à rechercher constamment de nouveaux défis et de nouvelles opportunités. Au cours de ma carrière de consultant technique SAP, j'ai acquis un solide ensemble de compétences dans ce domaine, mais mon désir est d'aller plus loin.",
+        "Presentacion3_2": "L'un de mes principaux objectifs est de relever des défis technologiques plus vastes et plus diversifiés. Je suis impatient d'explorer non seulement les dernières innovations dans le monde SAP, mais aussi d'autres technologies émergentes. Cela inclut l'examen de solutions autres que SAP, telles que Salesforce et Odoo, afin d'offrir à mes clients les meilleures solutions possibles.",
+        "Presentacion3_3": "En outre, je me suis fermement engagé à améliorer mes compétences linguistiques. Je reconnais l'importance d'une communication efficace dans les projets internationaux. Mon objectif est d'améliorer mes compétences linguistiques, en particulier en anglais, afin de pouvoir collaborer efficacement au sein d'équipes internationales et de comprendre parfaitement les besoins des clients du monde entier."
+    },
+    "Presentacion4":{
+        "Titulo":"LANGUES QUE JE PARLE",
+        "Aviso":"Cliquez sur une langue pour plus d'informations.",
+        "Enlace":"Lien pour consulter le rapport",
+        "Mensaje":"Aucune information disponible.",
+        "DetallesTitulo":"Détails sur la langue",
+        "Cerrar":"Fermer",
+        "Presentacion4_1": {
+            "nombre":"Anglais",
+            "nivel":"(Niveau B2)"
+        },
+        "Presentacion4_2": {
+            "nombre":"Espagnol",
+            "nivel":"(Langue maternelle)"
+        },
+        "Presentacion4_3": {
+            "nombre":"Français",
+            "nivel":"(Niveau A2)"
+        },
+        "Presentacion4_4": {
+            "nombre":"Allemand",
+            "nivel":"(Niveau A1)"
+        } 
+    },
+    "Presentacion5":{
+        "Titulo":"Pourquoi m'embaucher ?",
+        "Presentacion5_1": "Dans un marché du travail aussi compétitif et changeant, il est crucial d'avoir des professionnels qui ne sont pas seulement compétents dans leurs domaines techniques, mais qui sont également dédiés à l'excellence et à une croissance personnelle et professionnelle constante. En ce sens, je me présente comme le choix idéal pour votre entreprise, apportant un ensemble de compétences et une éthique de travail qui font la différence.",
+        "Presentacion5_2": "Mon engagement pour l'excellence n'est pas une simple déclaration, c'est une pratique constante. Je suis fier de ma capacité à aborder chaque projet avec méticulosité et dévouement, en veillant à ce que chaque détail soit soigneusement pris en compte et que le travail final dépasse les attentes. Ce souci du détail et cette volonté de bien faire les choses, non seulement bien mais exceptionnellement bien, sont des qualités qui me distinguent.",
+        "Presentacion5_3": "En conclusion, mon engagement en faveur de la qualité, ma capacité d'auto-apprentissage, mon adaptabilité, mes connaissances techniques et mes compétences linguistiques font de moi un choix exceptionnel pour votre entreprise. Je suis prêt à apporter une valeur significative, à stimuler l'innovation et à contribuer à la réussite de vos projets internationaux."
+    },
+    "Tecnologias":{
+        "SAP": {
+            "LenguajeABAP":"Langue ABAP",
+            "DescripcionABAP":"Fort d'une solide expérience en développement SAP ABAP et en conseil technique, j'ai accumulé une expérience complète dans la construction et la maintenance de solutions SAP de pointe. Ma spécialisation en ABAP pour S/4HANA m'a permis de diriger des projets internationaux, démontrant une compétence exceptionnelle en programmation orientée objet et en développement d'applications efficaces et évolutives. J'ai manié habilement les modèles de conception et produit des estimations techniques précises, en m'appuyant sur mes connaissances approfondies d'UML pour la modélisation de systèmes complexes, mon expérience s'étend à la mise en œuvre de tests rigoureux (cas de test ABAP), garantissant la qualité et la performance des applications. J'ai intégré des solutions SAP avec des technologies de pointe telles que Salesforce et des techniques de programmation avancées telles que adobe forms et SAP scripting. En outre, ma capacité à gérer les IDOC et les BAPI souligne mon aptitude à faciliter l'intégration et la communication de données entre des systèmes hétérogènes, tout en maintenant une communication fluide en anglais, ce qui s'est avéré essentiel pour réussir dans des environnements mondiaux. Ces compétences et connaissances techniques sont renforcées par une base pratique dans la manipulation d'outils tels que ALV, Modulepool et les techniques de programmation de saisie par lots, qui m'ont permis d'optimiser les processus et d'améliorer l'expérience de l'utilisateur final. En résumé, mon expérience avec SAP s'étend du développement backend à la mise en œuvre de solutions intégrées, en mettant l'accent sur l'excellence technique et l'innovation.",
+            "CertificacionABAPTitulo":"Vous pouvez voir ici quelques certificats d'achèvement des cours les plus importants que j'ai suivis pour améliorer ma connaissance de cette langue.",
+            "DescripcionUI5":"Bien que mon expérience professionnelle ne comprenne pas encore de projets directs avec SAP UI5 ou Fiori, j'ai renforcé de manière proactive mes connaissances dans ces domaines grâce à des cours autodidactes. Je possède une solide compréhension des principes fondamentaux et des meilleures pratiques régissant ces technologies d'interface utilisateur, ce qui me permet de relever les défis professionnels qui y sont liés. Je suis équipé des compétences nécessaires pour concevoir et développer des applications intuitives et réactives, et je suis prêt à appliquer ces connaissances dans un contexte pratique, en apportant des solutions innovantes et en améliorant l'expérience de l'utilisateur dans les projets futurs.",
+            "CertificacionUI5Titulo": "Vous pouvez voir ici un certificat d'achèvement d'un Bootcamp que j'ai suivi pour renforcer mes connaissances dans ce domaine.",
+            "DescripcionSMAF":" J'ai acquis une expérience pratique avec SmartForms et AdobeForms dans SAP, en me concentrant sur la création de formulaires fonctionnels qui facilitent les processus d'entreprise et les impriment avec des données et des structures prédéfinies.",
+            "CertificacionSMAFTitulo": "Vous pouvez voir ici quelques certificats d'achèvement des cours les plus importants que j'ai suivis pour renforcer mes connaissances.",
+            "DescripcionWORK": "Bien que je n'aie pas eu l'occasion de travailler avec SAP Workflow dans un environnement professionnel, j'ai suivi une formation autodidacte complète qui m'a permis d'acquérir une solide compréhension technique de cet outil. J'ai acquis les compétences fondamentales pour concevoir et automatiser des flux de travail, ce qui me prépare à relever et à surmonter les défis techniques dans de futurs projets. Je suis prêt à mettre ces connaissances théoriques en pratique, confiant dans ma capacité à contribuer efficacement dès le départ.",
+            "CertificacionWORKTitulo": "Vous pouvez voir ici un certificat d'achèvement d'un cours terminé.",
+            "DescripcionODATA": " Bien que mon expérience pratique directe des services SAP OData soit limitée, j'ai passé du temps à suivre des cours d'auto-apprentissage pour approfondir ma compréhension de cette technologie sur le plan fonctionnel et technique. Cet apprentissage m'a permis d'acquérir une solide compréhension des principes et des applications de SAP OData, un outil essentiel pour l'intégration des données et la création de services web efficaces dans les environnements SAP. J'ai acquis des connaissances dans la création et la gestion des services OData, en comprenant comment exposer les données SAP à travers les API d'une manière sécurisée et efficace. Ma formation comprend la création de points d'extrémité, la configuration de services et la compréhension des meilleures pratiques pour assurer l'interopérabilité et des performances optimales. Cette formation autodidacte reflète ma capacité à m'adapter et à apprendre rapidement les technologies émergentes, ce qui me prépare à appliquer ces connaissances dans des contextes professionnels. Je suis équipé pour relever les défis liés aux services OData de SAP, apportant une base technique solide et une nouvelle perspective aux projets nécessitant l'intégration de données et le développement de services web dans SAP."
+        },
+        "React":{
+            "DescripcionReact":" Avec enthousiasme et dévouement, j'ai plongé dans l'écosystème React à travers des cours autodidactes, acquérant des connaissances que j'ai mises en pratique dans des projets personnels. Cette initiative personnelle m'a permis de maîtriser les fondamentaux de React, notamment la gestion des états, les composants, les props et le cycle de vie des applications. J'ai expérimenté la création d'interfaces utilisateur dynamiques et exploré les dernières fonctionnalités telles que les Hooks et le contexte API, ce qui m'a permis de construire des applications frontales réactives et efficaces. L'application de React dans mes projets individuels reflète ma capacité à résoudre des problèmes, mon adaptabilité aux nouvelles technologies et mon engagement à développer des compétences pertinentes dans le monde réel. Cette expérience me permet d'apporter une valeur ajoutée aux projets professionnels qui nécessitent une compréhension technique approfondie et une application pratique de React."
+        },
+        "DB":{
+            "TituloBD":" Systèmes de bases de données",
+            "DescripcionBD":"Avec une compétence affinée par un usage quotidien, j'ai atteint une maîtrise des systèmes de gestion de bases de données, une compétence qui se reflète dans ma capacité à traiter et à analyser de grands volumes de données de manière efficace et précise. Ma routine professionnelle comprend l'administration avancée de bases de données, l'optimisation des requêtes et l'assurance de l'intégrité des données, ce qui nécessite une connaissance approfondie du langage SQL et une compréhension pratique de la conception des bases de données et des principes de normalisation. Mon expérience s'étend à la mise en œuvre de procédures stockées, de déclencheurs et de fonctions définies par l'utilisateur, ainsi qu'au contrôle des performances et de la sécurité des systèmes de base de données. J'ai travaillé avec diverses plateformes de bases de données, ce qui m'a permis de développer des solutions évolutives et performantes, en veillant à ce que les données soient accessibles et gérables pour répondre aux besoins de l'entreprise en temps réel. La gestion quotidienne de ces systèmes m'a permis d'acquérir l'expertise et la confiance nécessaires pour relever les défis les plus complexes en matière de bases de données."
+        }, 
+        "DW":{
+            "TituloDW":"Développement web",
+            "DescripcionDW":"Le développement web n'est pas seulement mon domaine d'expertise, c'est aussi ma passion. J'ai investi d'innombrables heures dans la maîtrise du front-end et du back-end, ce qui m'a permis d'acquérir une maîtrise de la création d'expériences web riches et attrayantes. Mon dévouement se reflète dans ma maîtrise du HTML, du CSS et du JavaScript, ainsi que des frameworks et des bibliothèques modernes qui stimulent l'innovation sur le web. Avec un œil sur le design et un œil sur la fonctionnalité, je m'efforce de construire des sites qui sont non seulement visuellement étonnants, mais aussi intuitifs et faciles à naviguer. L'architecture d'applications web sécurisées, réactives et accessibles est le point de rencontre entre ma créativité et mes connaissances techniques. Chaque ligne de code que j'écris est un pas vers un web plus dynamique et connecté, un témoignage de mon engagement pour l'excellence dans le développement web. Mon enthousiasme pour le code me pousse à apprendre et à appliquer en permanence les dernières tendances et les meilleures pratiques du secteur."
+        },
+        "KB":{
+            "DescripcionKB":"En me concentrant sur la pointe de la technologie des conteneurs, j'ai passé beaucoup de temps à m'auto-former sur Docker et Kubernetes. Cet apprentissage autodirigé m'a doté d'une compréhension pratique de la création, du déploiement et de la gestion des conteneurs, ce qui me permet d'orchestrer des applications de manière efficace et avec une haute disponibilité dans mes projets personnels. Mes progrès avec ces outils reflètent ma capacité à m'adapter à des écosystèmes complexes et mon engagement envers des méthodologies de développement modernes, me préparant à mettre en œuvre ces compétences dans des environnements professionnels plus larges."
+        },
+        "Lenguajes":{
+            "TituloLenguajes":"Langues de programmation",
+            "DescripcionLenguajes":" Voici une liste des langages de programmation avec lesquels j'ai travaillé, certains avec leurs certifications respectives d'achèvement de cours :",
+            "Mensaje": "(Si vous ne pouvez pas cliquer sur l'un des éléments, c'est qu'aucun certificat ne lui est associé)."
+        }
+    },
+    "Funcional":{
+        "DescripcionPMS": " Fort d'une connaissance approfondie et d'une expérience pratique de SAP PMS, j'ai développé un large éventail de solutions techniques pour la gestion hôtelière. Mon expertise dans ce module de SAP m'a permis de concevoir et de mettre en œuvre des systèmes très efficaces qui optimisent les opérations hôtelières, de la gestion des réservations à la gestion des revenus et à la gestion de la relation client. Mon travail a impliqué une étroite collaboration avec des équipes interfonctionnelles afin de bien comprendre les besoins opérationnels et financiers spécifiques de l'industrie hôtelière. Cela m'a permis de personnaliser et de configurer SAP PMS d'une manière qui s'aligne sur les objectifs stratégiques de l'entreprise, en améliorant de manière significative l'efficacité opérationnelle et la satisfaction des clients. J'ai dirigé l'intégration de SAP PMS avec d'autres systèmes et plateformes, en assurant une synergie transparente entre les différentes fonctions et départements. Mes compétences techniques en matière de programmation et d'analyse de données ont été déterminantes pour l'élaboration de rapports et de tableaux de bord personnalisés destinés au suivi des performances et à la prise de décisions fondées sur des données. Ces solutions ont contribué à une gestion plus efficace des tarifs, de l'occupation et d'autres indicateurs clés de performance, ce qui a entraîné une nette amélioration de la rentabilité et de la gestion des actifs. En bref, mon expérience de SAP PMS va de la mise en œuvre technique à la personnalisation stratégique du système, ce qui me permet de fournir des solutions de bout en bout qui favorisent la réussite dans le secteur de l'hôtellerie.",
+        "DescripcionFI":" J'ai une grande expérience et une connaissance approfondie du module financier SAP FI (Financial Accounting), ce qui m'a permis de développer et d'exécuter des solutions techniques et fonctionnelles de haut niveau. Mon travail dans SAP FI s'est concentré sur l'optimisation des processus financiers, couvrant des aspects tels que la comptabilité générale, la gestion des comptes débiteurs et créditeurs, la comptabilité des immobilisations et la consolidation des rapports financiers. J'ai participé activement à la personnalisation et à la configuration de SAP FI pour répondre aux besoins spécifiques et complexes des organisations. Cela inclut l'automatisation des processus comptables clés, l'intégration transparente avec d'autres modules SAP et systèmes externes, et la mise en œuvre de cycles de clôture financière efficaces. En outre, j'ai veillé à la conformité réglementaire et à la mise en œuvre de contrôles internes efficaces, en garantissant le respect des normes juridiques et des meilleures pratiques du secteur. Ma capacité à créer des rapports financiers détaillés et personnalisés a été cruciale pour fournir aux décideurs des informations financières précises et opportunes. Je possède de solides compétences analytiques et techniques pour résoudre des problèmes complexes, ce qui m'a permis de fournir des solutions qui améliorent la transparence et l'efficacité opérationnelle dans le domaine financier. En résumé, mon expérience avec SAP FI combine une compréhension technique approfondie et des connaissances fonctionnelles, ce qui me permet d'apporter une valeur substantielle aux opérations financières et de contribuer de manière significative à l'optimisation et à la réussite de l'entreprise.",
+        "DescripcionMM":"Bien que mon expérience pratique du module SAP MM (Material Management) ait été limitée, j'ai suivi une série de cours d'auto-formation qui m'ont permis d'acquérir une compréhension approfondie tant au niveau fonctionnel que technique. Cette formation m'a permis d'acquérir une solide connaissance des processus de gestion du matériel et des achats, ainsi que des configurations requises pour optimiser la chaîne d'approvisionnement et la gestion des stocks dans SAP. J'ai acquis des compétences dans la configuration de SAP MM, en comprenant comment il s'intègre avec d'autres modules SAP, tels que FI et SD, pour faciliter un flux de travail cohérent et efficace. Ma formation m'a permis de comprendre les processus d'achat, de gestion des commandes, de contrôle des stocks, d'évaluation et de comptabilisation des matériaux, qui sont tous essentiels à une gestion efficace de la chaîne d'approvisionnement dans toute organisation. L'importance que j'accorde à l'autoformation à SAP MM reflète mon engagement en faveur du développement professionnel continu et ma capacité à m'adapter rapidement aux nouvelles technologies et aux nouveaux modules. Malgré une expérience pratique limitée, je suis bien préparé à relever les défis dans les environnements utilisant SAP MM, en apportant une approche analytique et une base technique solide pour contribuer efficacement aux projets liés à la gestion des matériaux.",
+        "Certificaciones":"Vous pouvez voir ici quelques certificats d'achèvement des cours les plus importants que j'ai suivis pour renforcer mes connaissances de ce module SAP.",
+        "DescripcionPP":"Avec un dévouement exceptionnel au développement professionnel, j'ai suivi avec succès plusieurs cours d'auto-formation dans le module SAP Production Planning (SAP PP). Ces cours m'ont permis d'acquérir une connaissance approfondie et pratique de SAP PP, notamment de la gestion des données de base, de la planification de la production et de la gestion de la chaîne d'approvisionnement. J'ai développé des compétences dans la configuration et l'optimisation des processus de production, ce qui me permet de contribuer de manière significative aux environnements d'entreprise utilisant SAP. Ma capacité à m'auto-former témoigne d'un engagement inébranlable en faveur de l'apprentissage et de l'amélioration continus des compétences essentielles à une gestion efficace des processus de production dans SAP PP.",
+        "DescripcionQM":"Ma carrière professionnelle s'est considérablement enrichie après avoir suivi plusieurs cours d'autoformation au module SAP Quality Management (SAP QM). Cette formation m'a permis d'acquérir des connaissances approfondies sur des aspects clés de SAP QM, tels que la planification de la qualité, l'inspection des matériaux et la gestion des certificats de qualité. J'ai acquis des compétences spécialisées dans la mise en œuvre des processus de contrôle de la qualité et l'intégration des pratiques de qualité aux processus de production et de logistique dans SAP. Mon auto-apprentissage reflète mon engagement en faveur de l'apprentissage continu et de l'adaptation aux besoins changeants de la gestion de la qualité dans les environnements professionnels.",
+        "DescripcionPI":"Mon engagement en faveur du développement professionnel a été considérablement renforcé par l'achèvement de cours d'auto-formation dans le module SAP Process Integration (SAP PI). Cette formation autodidacte m'a permis d'acquérir des compétences avancées en matière d'intégration des systèmes et de gestion des processus d'entreprise à l'aide de SAP PI. J'ai acquis des compétences essentielles dans la configuration de scénarios d'intégration, le mappage de données et l'orchestration de processus entre différents systèmes et applications. Cette formation continue démontre ma capacité à m'adapter aux technologies émergentes et à améliorer les processus d'entreprise, renforçant ainsi l'infrastructure technologique dans les environnements utilisant SAP."
+    },
+    "Formulario":{
+        "Nombre":"Prénom:",
+        "Motivo":"Raison du contact:",
+        "Mensaje":"Message:",
+        "Exito":"Le message a été envoyé, je vous contacterai dès que possible",
+        "Fracaso":"Erreur d'envoi du message, réessayez plus tard",
+        "Enviar":"Envoyer"
+    },
+    "Footer":{
+        "Contacto":"Contact",
+        "Nombre":"Norberto Oliva Alonso",
+        "Email":"Email: norbertoolivaalonso1@gmail.com",
+        "Telefono":"Numéro de téléphone : +34 605936739",
+        "Redes":"Réseaux sociaux"
+    }
+}

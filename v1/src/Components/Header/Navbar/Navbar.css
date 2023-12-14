@@ -1,0 +1,50 @@
+/* Estilos para el contenedor de la barra de navegación */
+.div-header {
+  background-color: #333; /* Color de fondo */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 50px; /* O ajusta según la altura deseada para tu header */
+}
+
+/* Centrar el logotipo y los elementos de navegación */
+.navbar-nav {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Estilo para la marca de la barra de navegación (logo) */
+.navbar-brand img {
+  border-radius: 50%; /* Hace que la imagen sea circular */
+  border: 3px solid white; /* Añade un borde blanco */
+}
+
+/* Estilos para los enlaces de la barra de navegación */
+.navbar-nav .nav-link {
+  color: #00d1b2 !important; /* Color cian para un mejor contraste y encaje con el fondo tecnológico */
+  margin: 0 10px; /* Añade margen horizontal */
+  background-color: rgb(13, 84, 95); /* Fondo transparente para los enlaces */
+  padding: 5px 10px; /* Añade algo de relleno alrededor del texto */
+  transition: color 0.3s; /* Suaviza la transición del color del texto */
+  font-weight: bold; /* Hace que el texto de los enlaces sea en negrita */
+}
+
+.navbar-nav .nav-link:hover {
+  color: #0fb9c2 !important; /* Color más claro o diferente al pasar el mouse */
+  background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente al pasar el mouse */
+}
+
+/* Estilos para el botón de alternar la barra de navegación en vistas móviles */
+.navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.5); /* Cambia el color del borde si es necesario */
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  /* Personaliza el color y el grosor de las rayas */
+}
+/* Estilo del menú colapsado */
+.navbar-collapse {
+  background-color: transparent; /* Fondo oscuro para el menú colapsado */
+}
+

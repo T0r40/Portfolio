@@ -1,0 +1,46 @@
+/* Text2.css */
+.softskills-container {
+  background-color: #fdfdfd; /* Slightly off-white to reduce contrast */
+  background: #fdfdfd; /* changed to a gradient or textured background */
+  background-image: linear-gradient(to bottom, #fdfdfd 0%, #f0f0f0 100%); /* subtle gradient */
+  color: #333; /* Dark grey text for readability */
+  border-radius: 10px; /* Soft rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  padding: 20px; /* More space inside the box */
+  font-family: 'Times New Roman', serif; /* Example font */
+  max-width: 300px; /* To prevent the box from being too wide */
+  margin: auto; /* Center the box if there's room on the sides */
+}
+
+.softskills-list {
+  list-style: none; /* Removes default bullet points */
+  padding: 0; /* Reset padding */
+  margin: 0; /* Adjust margin as necessary */
+}
+
+.softskills-item {
+  background-color: #eee; /* Light grey background for each item */
+  text-align: center; /* centra el texto */
+  margin-bottom: 10px; /* Space between items */
+  padding: 10px; /* Space inside each item */
+  border-radius: 5px; /* Rounded corners for each item */
+  transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+.softskills-item:hover {
+  background-color: #ddd; /* Darker grey on hover */
+}
+
+h2 {
+  text-align: center; /* Center the title */
+  margin-bottom: 20px; /* Space below the title */
+}
+
+/* Media queries for responsive adjustments */
+@media (max-width: 768px) {
+  .softskills-container {
+    max-width: none; /* Allows the box to be full width on smaller screens */
+  }
+}
+
+  

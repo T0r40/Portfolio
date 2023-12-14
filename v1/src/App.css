@@ -1,0 +1,16 @@
+
+/* Agrega un borde inferior al NavbarOr */
+.div-separator {
+  border-bottom: 1px solid #000000; /* Borde inferior de 1 píxel en un tono gris claro */
+  margin-bottom: 300px; /* Espacio entre el NavbarOr y el Body */
+  background-color: black !important;
+}
+
+/* Estilo para el header con imagen de fondo */
+.div-header {
+  background-image: url('./res/img/bg.png');
+  background-size: cover; /* Cubre el área completa sin repetirse y ajusta la imagen responsivamente */
+  background-position: center; /* Centra la imagen en el área */
+}
+
+

@@ -1,0 +1,61 @@
+/* Footer.css */
+
+/* Estilo general del footer */
+.bg-dark {
+    background-color: #333; /* Color de fondo general del footer */
+  }
+  
+  /* Estilo para cada caja en el footer */
+  .footer-box {
+    background-color: #444; /* Color de fondo para cada caja */
+    padding: 20px;
+    border-radius: 15px; /* Bordes redondeados */
+    margin-bottom: 20px; /* Espaciado entre las cajas */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra sutil para dar profundidad */
+    text-align: center; /* Centra todo el texto en las cajas */
+  }
+  
+  /* Estilo para los títulos dentro del footer */
+  .footer h5 {
+    color: white;
+    margin-bottom: 15px;
+  }
+  
+  /* Estilo para los enlaces dentro del footer */
+  .footer a {
+    color: white; /* Color de los enlaces */
+    text-decoration: none; /* Quita el subrayado de los enlaces */
+  }
+  
+  .footer a:hover {
+    color: #ddd; /* Cambia el color al pasar el ratón por encima */
+  }
+  
+  /* Estilo para el efecto hover en los iconos de redes sociales */
+  .footer-hover:hover {
+    color: #555; /* Cambia el color de los iconos al pasar el ratón */
+    transition: color 0.3s; /* Transición suave del color */
+  }
+  
+  /* Estilos para los iconos de FontAwesome */
+  .faGithub, .faLinkedin {
+    margin-right: 8px; /* Añade espacio a la derecha del icono */
+  }
+  
+/* Estilo para los enlaces de redes sociales */
+.footer-box .social-link {
+    display: inline-block;
+    margin-right: 10px;
+    transition: box-shadow 0.3s, transform 0.3s;
+  }
+  
+  /* Efecto de sombreado y transformación al pasar el ratón por encima */
+  .footer-box .social-link:hover {
+    box-shadow: 0 4px 8px rgba(2, 37, 236, 0.5);
+    transform: translateY(-2px); /* Hace que el enlace se mueva ligeramente hacia arriba */
+  }
+  
+  /* ... (resto de estilos) ... */
+  
+
+  
