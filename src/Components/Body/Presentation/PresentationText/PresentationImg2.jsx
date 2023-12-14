@@ -7,7 +7,6 @@ function Text2() {
         t('Presentacion2.Presentacion2_1'),
         t('Presentacion2.Presentacion2_2'),
         t('Presentacion2.Presentacion2_4'),
-        t('Presentacion2.Presentacion2_4'),
         t('Presentacion2.Presentacion2_5'),
         t('Presentacion2.Presentacion2_6'),
       ];
