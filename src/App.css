@@ -11,6 +11,8 @@
   background-image: url('./res/img/bg.png');
   background-size: cover; /* Cubre el área completa sin repetirse y ajusta la imagen responsivamente */
   background-position: center; /* Centra la imagen en el área */
+  width: 100%;
+  overflow-x: hidden; /* Temporal: oculta el desbordamiento horizontal */
 }
 
 
