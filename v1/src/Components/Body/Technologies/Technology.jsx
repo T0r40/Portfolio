@@ -7,7 +7,7 @@ import javaIc from '../../../res/img/java.png';
 import javSIc from '../../../res/img/js.png';
 import tsIc from '../../../res/img/ts.png';
 import cIc from '../../../res/img/c.png';
-import csIc from '../../../res/img/c#.png';
+import csIc from '../../../res/img/cs.png';
 import dataIc from '../../../res/img/recopilacion-de-datos.png';
 import webIc from '../../../res/img/diseno-grafico.png';
 import docKbIc from '../../../res/img/docker-kb.png';
