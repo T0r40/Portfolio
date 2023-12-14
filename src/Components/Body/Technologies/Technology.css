@@ -1,0 +1,60 @@
+/* Estilos generales para el acordeón y el cuerpo del acordeón */
+.accordion-item {
+    border: 1px solid black; /* Agrega un borde negro */
+}
+
+.accordion-header {
+    background-color: #f8f9fa;
+    font-size: 1.2em;
+}
+
+.accordion-body {
+    font-size: 1em;
+    line-height: 1.5;
+}
+
+/* Estilos para las imágenes */
+.img-thumbnail {
+    border-radius: 0.25rem;
+    margin-right: 10px;
+}
+
+/* Estilos para listas de certificaciones */
+.list-group-item {
+    border: none;
+    padding: 0.5rem 1rem;
+    margin-bottom: 0.5rem;
+    background-color: #e9ecef;
+    border-radius: 0.25rem;
+}
+
+/* Estilos para encabezados de secciones */
+h5 {
+    margin-top: 1rem;
+    font-weight: bold;
+}
+
+/* Media queries para responsividad */
+@media (max-width: 768px) {
+    .accordion-header {
+        font-size: 1em;
+    }
+
+    .accordion-body {
+        font-size: 0.9em;
+    }
+}
+
+@media (max-width: 576px) {
+    .accordion-header {
+        font-size: 0.9em;
+    }
+
+    .accordion-body {
+        font-size: 0.8em;
+    }
+
+    .list-group-item {
+        padding: 0.25rem 0.5rem;
+    }
+}
