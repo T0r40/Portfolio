@@ -7,7 +7,7 @@ import './Navbar.css';
 import Languages from '../LanguageSelector/LanguageSelector';
 import headerBG from '../../../res/img/header.png';
 import { useTranslation } from "react-i18next";
-
+import foto from '../../../../public/logo512.png';
 const NavbarOr = () => {
   const {t, i18n} = useTranslation('common');
   return (    
@@ -15,7 +15,7 @@ const NavbarOr = () => {
         <Container>
             <Languages/>
             <Navbar.Brand>
-                <img src="https://media.licdn.com/dms/image/D4D03AQHXvAzXdKxhyg/profile-displayphoto-shrink_200_200/0/1701724776477?e=1707955200&v=beta&t=Qn5Zz4krdKIU1U_5T9yvb5-uTmytflohBJx6DSC4ibw" 
+                <img src=  {foto}
                 className="img-thumbnail" width={100} alt="Responsive image"/>
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
