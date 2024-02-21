@@ -7,7 +7,7 @@ import './Navbar.css';
 import Languages from '../LanguageSelector/LanguageSelector';
 import headerBG from '../../../res/img/header.png';
 import { useTranslation } from "react-i18next";
-import foto from '../../../../public/logo512.png';
+import foto from '../../../res/img/foto.png';
 const NavbarOr = () => {
   const {t, i18n} = useTranslation('common');
   return (    
